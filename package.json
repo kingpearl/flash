@@ -1,0 +1,9 @@
+{
+	"name": "flash",
+	"version": "0.0.1",
+	"repo": "kingpearl/flash",
+	"description": "Cron replacement in C.",
+	"keywords": ["cron"],
+	"license": "MIT",
+	"src": ["src/flash.c"]
+}
